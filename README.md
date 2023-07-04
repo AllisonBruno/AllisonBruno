@@ -15,11 +15,11 @@
     <img  alt="html5" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white />
     <img  alt="html5" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white />
 </div>
-## IDEs
+ IDEs
 
 <div style="display:inline_block">
    <img  alt="html5" src=https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg />
    <img  alt="html5" src=https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white />
 </div><br/>
 
-Apaixonado por tecnologia, História e Permacultura...
+
